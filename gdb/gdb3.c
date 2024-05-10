@@ -4,7 +4,7 @@
 long fattoriale(int n)
 {
 	long result = 1;
-	while (n>0);{
+	while (n>0){
 		result*=n;
 		n--;
 	}
